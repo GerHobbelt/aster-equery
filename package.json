@@ -28,9 +28,9 @@
     "rx": "4.1.0"
   },
   "devDependencies": {
-    "chai": "4.1.1",
-    "escodegen": "1.8.1",
+    "chai": "4.1.2",
+    "escodegen": "1.9.0",
     "esprima": "4.0.0",
-    "mocha": "3.5.0"
+    "mocha": "3.5.3"
   }
 }
